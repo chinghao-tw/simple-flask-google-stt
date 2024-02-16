@@ -43,6 +43,8 @@ python app.py
 
 The application will start and listen on port 8080 by default. You can access the application at `http://localhost:8080` in your web browser.
 
+<img src="img/layout.png" alt="Layout" width="30%">
+
 
 ## Docker
 Alternatively, you can run the application using Docker. Build the Docker image using the following command:
